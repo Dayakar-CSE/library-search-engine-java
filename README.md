@@ -24,7 +24,7 @@ A Java-based, menu-driven console application that allows users to search, sort,
 ---
 
 ## 📁 Project Structure
-
+```
 src/
 ├── Book.java
 ├── Library.java
@@ -41,6 +41,7 @@ src/
 
 .gitignore
 README.md
+```
 ---
 
 ## ⚙️ How to Run the Project
